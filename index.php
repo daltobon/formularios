@@ -56,7 +56,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btbtn-primary" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUOFZBRE5SVEtPOUhOVjdaWTNMRFRKT0tGTyQlQCN0PWcu">BITÁCORA DE INGENIERÍA</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-primary" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUOFZBRE5SVEtPOUhOVjdaWTNMRFRKT0tGTyQlQCN0PWcu">BITÁCORA DE INGENIERÍA</a></strong>
        En este formulario podrás registrar todos los eventos de mediano y alto impacto que puedan ser demostrables como tiempo productivo en Reuniones, Proyectos, y Objetivos del área, entre otros. 
       </p>
     </div>
