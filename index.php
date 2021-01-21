@@ -85,7 +85,7 @@
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
         <strong class="d-block text-gray-dark"><a class="btn btn-danger" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMVExVU02TVVPQzRMNlFOTTZROUpQRTRPSyQlQCN0PWcu">SEGUIMIENTO EN ZONAS</a></strong>
-       El formulario pretende llevar registro de las observaciones detectadas durante la visita a una sede del A.C con el fin de reunior información que permita minimizar los incidentes a 90 mensual.
+       El formulario pretende llevar registro de las observaciones detectadas durante la visita a una sede del A.C con el fin de reunir información que permita minimizar los incidentes a 90 mensual.
       </p>
     </div>
 
@@ -98,7 +98,9 @@
       </p>
     </div>   
 
-      
+    <small class="d-block text-end mt-3 ">
+      <a class="btn btn-outline-info" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmswGduQmPD1AgKW3HfdCu0hUNEJYMkcxS0pJTkM4VDhVWUw1Rjk1S0RPTC4u">Encuesta de Salud</a>
+    </small>
     <small class="d-block text-end mt-3 ">
       <a class="btn btn-outline-danger" href="https://sentrylocal.sistemasentry.com.co/GestionTareas">Gestor de Tareas</a>
     </small>
