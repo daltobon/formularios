@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Daniel Tobón">
-    <meta name="generator" content="Hugo 0.79.0">
     <title>Formulario Sistemas Sentry Ingenieria</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/">
@@ -28,7 +27,7 @@
       }
     </style>
 
-    
+  <head> 
     <!-- Custom styles for this template -->
     <link href="css/sticky-footer-navbar.css" rel="stylesheet">
   </head>
@@ -37,7 +36,7 @@
     
 <header>
   <!-- Fixed navbar -->
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-light">
+  <nav class="navbar navbar-expand-md navbar-dark bg-light">
     <div class="container-fluid">
       <img src="img/logo_sentry.png">
       <h2 class="mt-5">Formularios Ingeniería Sistemas Sentry</h2>
@@ -48,10 +47,10 @@
 <!-- Begin page content -->
 <main class="flex-shrink-0">
   <div class="container">
-    <h2 class="mt-5">Lista de Formularios de uso continuo</h2>
+    <h4 class="text-danger mt-5">Lista de Formularios de uso continuo</h4>
     
    <div class="my-3 p-3 bg-white rounded shadow-sm">
-    <h6 class="border-bottom pb-2 mb-0">Últimas Actualizaciones</h6>
+    <h6 class="border-bottom pb-3 mb-0">Últimas Actualizaciones</h6>
 
     <div class="d-flex text-muted pt-3">
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
