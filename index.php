@@ -56,7 +56,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-primary" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUOFZBRE5SVEtPOUhOVjdaWTNMRFRKT0tGTyQlQCN0PWcu">BITÁCORA DE INGENIERÍA</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btbtn-primary" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUOFZBRE5SVEtPOUhOVjdaWTNMRFRKT0tGTyQlQCN0PWcu">BITÁCORA DE INGENIERÍA</a></strong>
        En este formulario podrás registrar todos los eventos de mediano y alto impacto que puedan ser demostrables como tiempo productivo en Reuniones, Proyectos, y Objetivos del área, entre otros. 
       </p>
     </div>
@@ -65,7 +65,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-info" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUREs2VEs5RzFaVU5XSzk1U0VHRlc5QjlTWiQlQCN0PWcu">SERVICIOS ALIADOS COMERCIALES</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-info" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUREs2VEs5RzFaVU5XSzk1U0VHRlc5QjlTWiQlQCN0PWcu">SERVICIOS ALIADOS COMERCIALES</a></strong>
        En este formulario podrás registrar el seguimiento diario de los servicios en la nube para los aliados comerciales de Sistemas Sentry.
       </p>
     </div>
@@ -74,7 +74,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-success" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMFFOVlVOQldTV0pKT0NSV1I5RVRKQ0NKSyQlQCN0PWcu">RESUMEN DE ANS VENCIDO</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-success" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMFFOVlVOQldTV0pKT0NSV1I5RVRKQ0NKSyQlQCN0PWcu">RESUMEN DE ANS VENCIDO</a></strong>
        En este formulario podrás registrar la justificación a los ANS Vencidos para atender con el objetivo propuesto del cumplimento de ANS al 95%.
       </p>
     </div>
@@ -84,7 +84,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-danger" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMVExVU02TVVPQzRMNlFOTTZROUpQRTRPSyQlQCN0PWcu">SEGUIMIENTO EN ZONAS</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-danger" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMVExVU02TVVPQzRMNlFOTTZROUpQRTRPSyQlQCN0PWcu">SEGUIMIENTO EN ZONAS</a></strong>
        El formulario pretende llevar registro de las observaciones detectadas durante la visita a una sede del A.C con el fin de reunior información que permita minimizar los incidentes a 90 mensual.
       </p>
     </div>
@@ -93,7 +93,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-warning" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMVJVVVdHMEszNzRBOEtNSU5JUFlVSUhVRSQlQCN0PWcu">RELACIÓN DE DISPONIBILIDAD</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-warning" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUMVJVVVdHMEszNzRBOEtNSU5JUFlVSUhVRSQlQCN0PWcu">RELACIÓN DE DISPONIBILIDAD</a></strong>
        En este formulario podrás registrar todos los eventos y actividades realizadas fuera del horario laboral con el fin de tener información y alcance para la planeación del área. 
       </p>
     </div>   
