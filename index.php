@@ -38,7 +38,7 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-md navbar-dark bg-light">
     <div class="container-fluid">
-      <img height="50" src="img/logo_sentry.png">
+      <img height="80" src="img/logo_sentry.png">
       <h2 class="mt-5">Formularios Ingeniería Sistemas Sentry</h2>
     </div>
  </nav>
