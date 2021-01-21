@@ -65,7 +65,7 @@
       <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
       <p class="pb-3 mb-0  lh-sm border-bottom">
-        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-dark" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUREs2VEs5RzFaVU5XSzk1U0VHRlc5QjlTWiQlQCN0PWcu">SERVICIOS ALIADOS COMERCIALES</a></strong>
+        <strong class="d-block text-gray-dark"><a class="btn btn-lg btn-info" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmltycprQGc1Pjkc5gnwY1ZVUREs2VEs5RzFaVU5XSzk1U0VHRlc5QjlTWiQlQCN0PWcu">SERVICIOS ALIADOS COMERCIALES</a></strong>
        En este formulario podrás registrar el seguimiento diario de los servicios en la nube para los aliados comerciales de Sistemas Sentry.
       </p>
     </div>
@@ -100,7 +100,7 @@
 
       
     <small class="d-block text-end mt-3 ">
-      <a class="btn btn-lg btn-dark" href="https://sentrylocal.sistemasentry.com.co/GestionTareas">Gestor de Tareas</a>
+      <a class="btn btn-outline-danger" href="https://sentrylocal.sistemasentry.com.co/GestionTareas">Gestor de Tareas</a>
     </small>
 
   </div>
