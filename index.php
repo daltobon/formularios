@@ -97,7 +97,15 @@
        En este formulario podrás registrar todos los eventos y actividades realizadas fuera del horario laboral con el fin de tener información y alcance para la planeación del área. 
       </p>
     </div>   
+    
+         <div class="d-flex text-muted pt-3">
+      <img class="bd-placeholder-img flex-shrink-0 me-2 rounded" height="32" src="img/forms.png" role="img">
 
+      <p class="pb-3 mb-0  lh-sm border-bottom">
+        <strong class="d-block text-gray-dark"><a class="btn btn-dark" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=EEDXqDH3Qk2_h69_acodmiAj3Rg9VdFPrMM5g5an8QtUMDkxSlhWWUpSODFDS1lQQ0E1VERJNkhENC4u">RODAMIENTO</a></strong>
+       En este formulario podrás registrar la justificación del auxilio de rodamiento.
+      </p>
+    </div>  
 
     <small class="d-block text-end mt-3 ">
       <a class="btn btn-outline-danger" href="https://sentrylocal.sistemasentry.com.co/GestionTareas">Gestor de Tareas</a>
